@@ -10,6 +10,7 @@ O foco principal aqui é documentar o meu aprendizado inicial em lógica de prog
 
 ## 📂 Estrutura do Repositório
 * `lista_01_Java_E_S/`: Exercícios iniciais focados em entrada/saída de dados e cálculos matemáticos.
+* `lista_02_Java_condicional/` : Exercícios focados em estruturas de decisão (IF/ELSE) e lógica condicional.
 
 ## 📈 Evolução e Refatoração
 Como agora estou no **2º semestre**, meu objetivo é revisar estes códigos periodicamente para aplicar novos conceitos de:
