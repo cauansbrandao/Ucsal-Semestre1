@@ -12,9 +12,10 @@ O foco principal aqui é documentar o meu aprendizado inicial em lógica de prog
 * `lista_01_Java_E_S/`: Exercícios iniciais focados em entrada/saída de dados e cálculos matemáticos.
 * `lista_02_Java_condicional/` : Exercícios focados em estruturas de decisão (IF/ELSE) e lógica condicional.
 * `lista_03_condicional/` : Exercícios de fixação em estruturas condicionais e introdução ao Switch Case.
-* `lista_04_Java_repeticao/` : Exercícios focados em laços de repetição (while, do-while e for).
-* `lista_05_Java_repeticao/` : Exercícios de fixação em laços de repetição e processamento de fluxos de dados.
-* `lista_06_Java_modularizacao/` : Exercícios focados na criação de métodos e passagem de parâmetros.
+* `lista_04_repeticao/` : Exercícios focados em laços de repetição (while, do-while e for).
+* `lista_05_repeticao/` : Exercícios de fixação em laços de repetição e processamento de fluxos de dados.
+* `lista_06_modularizacao/` : Exercícios focados na criação de métodos e passagem de parâmetros.
+* `lista_07_strings/` : Exercícios focados na ultilização de strings.
 
 ## 📈 Evolução e Refatoração
 Como agora estou no **2º semestre**, meu objetivo é revisar estes códigos periodicamente para aplicar novos conceitos de:
