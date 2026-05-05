@@ -16,6 +16,11 @@ O foco principal aqui é documentar o meu aprendizado inicial em lógica de prog
 * `lista_05_repeticao/` : Exercícios de fixação em laços de repetição e processamento de fluxos de dados.
 * `lista_06_modularizacao/` : Exercícios focados na criação de métodos e passagem de parâmetros.
 * `lista_07_strings/` : Exercícios focados na ultilização de strings.
+* `lista_08_vetores/` : Exercícios focados em vetores para manipulação de arrays e resolução de problemas.
+* `lista_09_vetores/` : Exercícios sobre manipulação de arrays, busca de maior valor e filtragem de números primos.
+* `lista_10_matrizes/` : Exercícios sobre matrizes, incluindo operações aritméticas, contagem de frequência e manipulação de diagonais.
+* `lista_11_matrizes/` : Exercícios de aprofundamento em matrizes, focando em percorrimento por colunas e associação de dados entre vetores e matrizes.
+* `lista_12_recursividade` : Exercícios focados em algoritmos recursivos, incluindo cálculo de fatorial, potência e manipulação de vetores.
 
 ## 📈 Evolução e Refatoração
 Como agora estou no **2º semestre**, meu objetivo é revisar estes códigos periodicamente para aplicar novos conceitos de:
