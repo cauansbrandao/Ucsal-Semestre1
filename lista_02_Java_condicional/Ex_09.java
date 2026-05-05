@@ -7,9 +7,9 @@ public class Ex_09 {
 		int homem, mulher, homemvelho, mulhernova, a;
 		
 		// Título
-		System.out.println("======================================");
-		System.out.println("          Sem ideia pra nome");
-		System.out.println("======================================\n");
+		System.out.println("=========================================");
+		System.out.println("          Comparativo de Idades");
+		System.out.println("=========================================\n");
 		
 		// Entrada de dados (Homens)
 		System.out.println("Digite a idade dos 2 homens: ");
