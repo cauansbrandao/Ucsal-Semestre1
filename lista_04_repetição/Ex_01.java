@@ -6,16 +6,16 @@ public class Ex_01 {
 		Scanner sc = new Scanner(System.in);
 		int n;
 		
-		System.out.println("======================================");
-		System.out.println("          Sem ideia pra nome");
-		System.out.println("======================================\n");
+		System.out.println("==================================");
+		System.out.println("          Somatorio de N");
+		System.out.println("==================================\n");
 		System.out.println("Digite um número: ");
 		n = sc.nextInt();
 		
 		System.out.println("\n\n\n\n\n");
-		System.out.println("======================================");
-		System.out.println("          Sem ideia pra nome");
-		System.out.println("======================================\n");
+		System.out.println("==================================");
+		System.out.println("          Somatorio de N");
+		System.out.println("==================================\n");
 		System.out.print("A) S = 1/1 + ");
 		for(int cont = 2; cont <= n; cont++) {
 			System.out.print("1/" + cont + " + ");
