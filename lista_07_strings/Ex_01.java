@@ -8,9 +8,9 @@ public class Ex_01 {
 		Scanner sc = new Scanner(System.in);
 		String nome;
 
-		System.out.println("=======================================");
-		System.out.println("          Sem ideia para nome");
-		System.out.println("=======================================");
+		System.out.println("===================================");
+		System.out.println("          Filtro de Nomes");
+		System.out.println("===================================");
 		System.out.println("Digite um nome: ");
 		nome = sc.next();
 
