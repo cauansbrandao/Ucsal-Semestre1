@@ -6,9 +6,9 @@ public class Ex_05 {
 		Scanner sc = new Scanner(System.in);
 		int num, soma = 0, quant = 0, maior, menor, pares = 0, quantpares = 0;
 		
-		System.out.println("=====================================");
-		System.out.println("          Sem ideia de nome");
-		System.out.println("=====================================");
+		System.out.println("========================================");
+		System.out.println("          Estatistica de Dados");
+		System.out.println("========================================");
 		System.out.println("⚠️ Todos numeros devem ser >= 0 ⚠️\n");
 		System.out.println("Digite um numero:");
 		num = sc.nextInt();
@@ -28,9 +28,9 @@ public class Ex_05 {
 			num = sc.nextInt();
 		}
 		if(quant > 0) {
-			System.out.println("=====================================");
-			System.out.println("          Sem ideia de nome");
-			System.out.println("=====================================\n");
+			System.out.println("========================================");
+			System.out.println("          Estatistica de Dados");
+			System.out.println("========================================\n");
 			System.out.println("Soma: " + soma);
 			System.out.println("Quantidade: " + quant);
 			System.out.println("Média: " + (double)soma / quant);
