@@ -7,9 +7,9 @@ public class Ex_5 {
 		int num;
 		
 		// Titulo
-		System.out.println("======================================");
-		System.out.println("          Sem ideia pra nome");
-		System.out.println("======================================\n");
+		System.out.println("=============================================");
+		System.out.println("          Estatistica de Dados (v2)");
+		System.out.println("=============================================\n");
 		
 		// Entrada de dados
 		System.out.print("Digite um numero: "
@@ -19,9 +19,9 @@ public class Ex_5 {
 		System.out.println("\n\n--------------------------------------\n\n");
 		
 		// Titulo
-		System.out.println("======================================");
-		System.out.println("          Sem ideia pra nome");
-		System.out.println("======================================\n");
+		System.out.println("=============================================");
+		System.out.println("          Estatistica de Dados (v2)");
+		System.out.println("=============================================\n");
 		mod1(num);
 		System.out.println();
 		mod2(num);
