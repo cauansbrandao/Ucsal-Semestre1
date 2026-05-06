@@ -1,6 +1,6 @@
 package lista_03_condicional;
 import java.util.Scanner;
-public class Ex_08_INCOMPLETO {
+public class Ex_08 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
